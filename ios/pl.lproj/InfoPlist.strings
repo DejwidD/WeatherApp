@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  WeatherApp
+
+  Created by DawidW on 05/08/2022.
+  
+*/
+
+
+
+"CFBundleDisplayName" = "Pogodynka";
+"CFBundleName" = "Pogodynka";
